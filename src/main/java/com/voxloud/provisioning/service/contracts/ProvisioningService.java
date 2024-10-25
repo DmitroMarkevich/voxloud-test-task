@@ -1,4 +1,4 @@
-package com.voxloud.provisioning.service;
+package com.voxloud.provisioning.service.contracts;
 
 public interface ProvisioningService {
 
